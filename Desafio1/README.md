@@ -40,3 +40,6 @@
 		- ![totalDeVendasGeral.png](screenshots/totalDeVendasGeral.png)
 		- Já na seguinte imagem abaixo, podemos visualizar o resultado da Matriz de vendas.
 		- ![matrizDeVendas.png](screenshots/matrizDeVendas.png)
+		
+## Resultado final do Dashboard
+![resultadoFinalDashboard.png](screenshots/resultadoFinalDashboard.png)
