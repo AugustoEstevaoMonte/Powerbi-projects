@@ -37,6 +37,6 @@
 		- ![custoDeMaoDeObra.png](screenshots/custoDeMaoDeObra.png)
 	- 4º - Total de Vendas Geral e Matriz de Vendas.
 		- A imagem abaixo, mostra o total de vendas geral
-		- ![totalDeVendasGeral.png]screenshots/totalDeVendasGeral.png)
+		- ![totalDeVendasGeral.png](screenshots/totalDeVendasGeral.png)
 		- Já na seguinte imagem abaixo, podemos visualizar o resultado da Matriz de vendas.
 		- ![matrizDeVendas.png](screenshots/matrizDeVendas.png)
